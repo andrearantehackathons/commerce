@@ -1,5 +1,7 @@
 # commerce
 
+Submission for 2022 Pyrahacks
+
 ## Description
 
 This is a website that allows users to either login and register with an account. Once they have an account, they can create their own auction listing and post it for other users to see. Using the "Active Listings" tab on the navbar, they can view all active listings and place their own bid. The owner of the listing has the ability to close auctions using the editing menu once a desirable bid has been recieved. Additionally, for user convenience it is possible to filter listing via the "filter by category" tab in the navbar. 
