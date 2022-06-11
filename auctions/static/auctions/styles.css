@@ -1,0 +1,17 @@
+body {
+    padding: 10px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+img {
+    height: 100px;
+    width: 100px
+}
+
+#img-box {
+    padding-left: 10px;
+    padding-right: 5px
+}
